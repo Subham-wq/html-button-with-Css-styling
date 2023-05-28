@@ -1,0 +1,41 @@
+.subscribe {
+    background-color: rgb(197, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 5px;
+}
+  /*Css code for the hovering effect*/  
+.subscribe:hover{
+    background-color: green ;
+
+}
+/* Css comment */
+
+.join{
+    background-color: white;
+    border-color: blue;
+    color: blue;
+    border-style: solid;
+    border-width:1px ;
+    height: 36px;
+    width:60px;
+    border-radius: 2px;
+    margin-right: 4px;
+    cursor: pointer;
+
+}
+.tweet{
+    background-color: rgb(111, 111, 188);
+    color: white;
+    border-radius: 25px;
+    height: 50px;
+    width: 100px;
+    border:none;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+}
